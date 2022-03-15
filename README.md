@@ -1,2 +1,0 @@
-# nicksmobilegallery
-Mobile insurence website
